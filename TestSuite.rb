@@ -1,0 +1,2 @@
+require "SquareTest"
+require "BoardTest"

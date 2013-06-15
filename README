@@ -1,0 +1,6 @@
+Charles Treatman
+TurnBlue in Ruby
+
+This is a Ruby implementation of the TurnBlue assignment.  The game can be run by loading TurnBlue.rb in Shoes.
+
+The unit tests are contained in BoardTest.rb and SquareTest.rb.  These are combined into a test suite in TestSuite.rb.
